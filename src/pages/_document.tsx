@@ -12,6 +12,7 @@ class MyDocument extends Document {
             as="font"
             href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css"
           />
+          <meta name="naver-site-verification" content="60dcc02589e9f34eae87c7e95d7e4420276c293e" />
           <link rel="icon" href="/star.png" />
           <link
             rel="apple-touch-icon"
