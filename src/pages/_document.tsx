@@ -13,6 +13,7 @@ class MyDocument extends Document {
             href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css"
           />
           <meta name="naver-site-verification" content="60dcc02589e9f34eae87c7e95d7e4420276c293e" />
+          <meta name="google-site-verification" content="N_a4lc-vqlXkbXwlDbdT2Qdl2svx67b6woIEHte2kr4" />
           <link rel="icon" href="/star.png" />
           <link
             rel="apple-touch-icon"
