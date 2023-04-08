@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "ksy3432",
-    image: "computer-2023252__340.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "https://cdn.pixabay.com/photo/2017/01/31/08/32/computer-2023252__340.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "A student majoring computer science",
     bio: "Dream bigger, Act boldly.",
     email: "akasarao3@gmail.com",
@@ -24,7 +24,7 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://cdn.pixabay.com/photo/2017/01/31/08/32/computer-2023252__340.png",
+  link: "https://morethan-7zv4g4zml-ksy3432.vercel.app",
   since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
