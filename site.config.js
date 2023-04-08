@@ -20,7 +20,6 @@ const CONFIG = {
   blog: {
     title: "Seyeon Kim's Blog",
     description: "welcome to my blog!",
-    image: "/star.png",
     theme: "light", // ['light', 'dark', 'auto']
   },
 
