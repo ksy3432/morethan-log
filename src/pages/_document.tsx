@@ -20,7 +20,6 @@ class MyDocument extends Document {
             sizes="192x192"
             href="/star.png"
           ></link>
-           <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">  
           <link
             rel="alternate"
             type="application/rss+xml"
