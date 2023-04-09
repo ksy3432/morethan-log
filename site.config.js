@@ -6,13 +6,13 @@ const CONFIG = {
     role: "A student majoring computer science",
     bio: "Dream bigger, Act boldly.",
     email: "akasarao3@gmail.com",
-    linkedin: "seyeonkim",
-    github: "morethanmin",
+    linkedin: "morethanmin",
+    github: "ksy34432",
     instagram: "",
   },
   projects: [
     {
-      name: `Seyeon`,
+      name: `ksy3432`,
       href: "https://github.com/ksy3432/morethan-log",
     },
   ],
