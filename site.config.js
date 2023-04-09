@@ -7,7 +7,7 @@ const CONFIG = {
     bio: "Dream bigger, Act boldly.",
     email: "akasarao3@gmail.com",
     linkedin: "seyeonkim",
-    github: "ksy3432",
+    github: "morethanmin",
     instagram: "",
   },
   projects: [
