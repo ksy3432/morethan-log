@@ -1,9 +1,9 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "ksy3432",
+    name: "Seyeon Kim",
     image: "/star.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "A student majoring computer science",
+    role: "컴퓨터공학을 전공하는 학생의 블로그",
     bio: "Dream bigger, Act boldly.",
     email: "akasarao3@gmail.com",
     linkedin: "morethanmin",
