@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "Seyeon's 개발숲",
+    title: "Seyeon's 개발 숲",
     description: "welcome to my blog!",
     theme: "light", // ['light', 'dark', 'auto']
   },
