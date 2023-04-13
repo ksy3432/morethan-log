@@ -20,7 +20,7 @@ const CONFIG = {
   blog: {
     title: "세연'S 개발 블로그",
     description: "welcome to my blog!",
-    theme: "auto", // ['light', 'dark', 'auto']
+    theme: "light", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
