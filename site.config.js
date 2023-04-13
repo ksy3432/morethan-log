@@ -55,7 +55,7 @@ const CONFIG = {
     config: {
       repo: "ksy3432/morethan-log",
       "issue-term": "og:title",
-      label: "Univ_study",
+      label: "💬 Utterances",
     },
   },
   cusdis: {
