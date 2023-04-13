@@ -3,7 +3,7 @@ const CONFIG = {
   profile: {
     name: "Seyeon Kim",
     image: "/star.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "컴퓨터공학을 전공하는 학부생입니다.",
+    role: "안녕하세요. 컴퓨터공학을 전공하는 학부생입니다.",
     bio: "Dream bigger, Act boldly.",
     email: "akasarao3@gmail.com",
     linkedin: "morethanmin",
@@ -18,9 +18,9 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "Seyeon's 개발 숲",
+    title: "세연'S 개발 블로그",
     description: "welcome to my blog!",
-    theme: "light", // ['light', 'dark', 'auto']
+    theme: "auto", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
