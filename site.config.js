@@ -3,7 +3,7 @@ const CONFIG = {
   profile: {
     name: "Seyeon Kim",
     image: "/star.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "안녕하세요. 컴퓨터공학을 전공하는 학부생입니다.",
+    role: "안녕하세요. 컴퓨터공학을 전공하는 학부생입니다. 현재 블로그가 날아가서 복구 중입니다",
     bio: "Dream bigger, Act boldly.",
     email: "akasarao3@gmail.com",
     linkedin: "morethanmin",
