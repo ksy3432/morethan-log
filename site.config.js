@@ -3,10 +3,10 @@ const CONFIG = {
   profile: {
     name: "Seyeon Kim",
     image: "/star.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "블로그 이전 중입니다",
+    role: "블로그 정리 중입니다",
     bio: "Dream bigger, Act boldly.",
     email: "akasarao3@gmail.com",
-    linkedin: "morethanmin",
+    linkedin: "",
     github: "ksy3432",
     instagram: "",
   },
